@@ -1,4 +1,4 @@
-# Spec-Driven-Development-Overview--Red-Team-Edition
+# Spec-Driven-Development Overview - Red Team Edition
 
 "AI isn't bad at coding. It's bad at guessing human intent."
 
